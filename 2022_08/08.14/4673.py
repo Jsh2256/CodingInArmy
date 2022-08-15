@@ -7,7 +7,7 @@ def d(n):
         if n<=0:
             break
     return total+temp
-
+ 
 listA=[]
 for i in range(0,10001):
     listA.append(i)
